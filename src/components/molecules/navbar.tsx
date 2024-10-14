@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import { Button } from '@/components/atoms/button'
 
 export const Navbar = () => {
   return (
