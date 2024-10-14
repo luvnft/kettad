@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       title: `${disc.name} by ${disc.brand} | Disc Golf Disc Details`,
       description: `Explore the ${disc.name} disc by ${disc.brand}. Speed: ${disc.speed}, Glide: ${disc.glide}, Turn: ${disc.turn}, Fade: ${disc.fade}. Perfect for ${disc.category.toLowerCase()} shots.`,
       type: 'website',
-      url: `https://kettad.ee/search/${disc.name_slug}`,
+      url: `https://search.bdisc.golf/${disc.name_slug}`,
     },
   }
 }

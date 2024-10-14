@@ -23,16 +23,16 @@ export interface DiscType {
 }
 
 export const metadata: Metadata = {
-  title: 'Kettad | Search Discs',
+  title: 'BDISC Search | Search Discs',
   description:
     'Search and compare over 1000 disc golf discs. Find the perfect disc for your game with detailed stats and specifications.',
   keywords: 'disc golf, disc search, disc comparison, disc stats, disc database',
   openGraph: {
-    title: 'Kettad | Search Discs',
+    title: 'BDISC Search | Search Discs',
     description:
       'Find and compare disc golf discs with our comprehensive search tool. Access detailed stats for over 1000 discs.',
     type: 'website',
-    url: 'https://kettad.ee/search',
+    url: 'https://search.bdisc.golf',
   },
 }
 

@@ -12,16 +12,16 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Kettad | Lookup Disc Stats',
+  title: 'BDISC Discs | Lookup Disc Stats',
   description:
     'Look up and compare disc golf disc stats. Find the perfect disc for your game with our comprehensive database of over 1000 discs.',
-  keywords: 'kettad, disc golf, disc stats, disc lookup, disc comparison, disc database',
+  keywords: 'bdisc, disc golf, disc stats, disc lookup, disc comparison, disc database',
   openGraph: {
-    title: 'Kettad | Lookup Disc Stats',
+    title: 'BDISC Discs | Lookup Disc Stats',
     description:
       'Look up and compare disc golf disc stats. Find the perfect disc for your game with our comprehensive database.',
     type: 'website',
-    url: 'https://kettad.ee',
+    url: 'https://search.bdisc.golf',
   },
 }
 
